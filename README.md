@@ -2,6 +2,8 @@
 
 I'm a software developer with strong experience in **Node.js**, **React**, and **Firebase**, passionate about building scalable backend systems and intuitive frontend interfaces. With 8+ years in backend development and over a decade in software engineering, I bring deep technical expertise and a hands-on problem-solving mindset.
 
+Link to my personal portfolio --- https://r-ghanta-portfolio.vercel.app/
+
 ---
 
 ### 💻 What I Do:
